@@ -63,7 +63,7 @@ body {
 }
 .flex-wrapper{
 	display: flex;
-	height: calc(100vh - 20vh);
+	height: calc(100vh - 25vh);
 	justify-content: center;
 	align-items: center;
 }
